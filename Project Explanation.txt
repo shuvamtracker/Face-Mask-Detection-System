@@ -1,0 +1,16 @@
+Blob:
+blob is a 4 dimensional array with convenient methods. 
+They use it to store the weights of the neurones and the activations values. 
+
+Confidence:
+The probability of the event (or probability of input to fall in different classes).
+If a class has high probability then it has high confidence.
+
+PROTOTXT:
+ A prototype machine learning model created for use with Caffe.
+ Caffe (Convolutional Architecture for Fast Feature Embedding) is a deep
+ learning framework that allows users to create image classification and image segmentation models.
+
+CAFFEMODEL:
+A file is a machine learning model created by Caffe. It contains an image 
+classification or image segmentation model that has been trained using Caffe.
